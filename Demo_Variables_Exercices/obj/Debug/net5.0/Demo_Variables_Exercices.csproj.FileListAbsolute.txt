@@ -1,0 +1,16 @@
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\bin\Debug\net5.0\Demo_Variables_Exercices.exe
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\bin\Debug\net5.0\Demo_Variables_Exercices.deps.json
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\bin\Debug\net5.0\Demo_Variables_Exercices.runtimeconfig.json
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\bin\Debug\net5.0\Demo_Variables_Exercices.runtimeconfig.dev.json
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\bin\Debug\net5.0\Demo_Variables_Exercices.dll
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\bin\Debug\net5.0\ref\Demo_Variables_Exercices.dll
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\bin\Debug\net5.0\Demo_Variables_Exercices.pdb
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\obj\Debug\net5.0\Demo_Variables_Exercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\obj\Debug\net5.0\Demo_Variables_Exercices.AssemblyInfoInputs.cache
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\obj\Debug\net5.0\Demo_Variables_Exercices.AssemblyInfo.cs
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\obj\Debug\net5.0\Demo_Variables_Exercices.csproj.CoreCompileInputs.cache
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\obj\Debug\net5.0\Demo_Variables_Exercices.dll
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\obj\Debug\net5.0\ref\Demo_Variables_Exercices.dll
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\obj\Debug\net5.0\Demo_Variables_Exercices.pdb
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\obj\Debug\net5.0\Demo_Variables_Exercices.genruntimeconfig.cache
+C:\Users\e.stultjens\source\repos\C_Demos\Demo_Variables_Exercices\obj\Debug\net5.0\Demo_Variables_Exercices.csproj.AssemblyReference.cache
